@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://vipweishang.cn/images/home.png</string>
+					<string>http://api.mqitu.com/home.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://vipweishang.cn/images/home.png</string>
+					<string>http://api.mqitu.com/home.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
